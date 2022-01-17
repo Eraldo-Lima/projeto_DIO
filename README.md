@@ -1,2 +1,5 @@
-# projeto_DIO
-Repositório criado como desafio de estudo na DIO
+# Desafio de Projeto Sobre Git/Github da DIO
+Repositório criado para o desafio do projeto da DIO
+
+## Link Úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/getting-started/)
